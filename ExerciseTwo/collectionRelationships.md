@@ -69,7 +69,7 @@ YOU ARE NOW ENTERING NIGHTMARE MODE:
 
 8. Joey wants to be able to instantly look up whether someone is in one of his networks.
 
-  (i) Create a function, networkCheck, that takes an array and a name.
+  (i) Create a function, nameCheck, that takes an array and a name.
 
   (ii) If the name exists in the array, alert the users full profile formatted exactly like the example below.
 
